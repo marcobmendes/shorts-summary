@@ -6,6 +6,7 @@
   "scripts": {
     "web": "vite"
   },
+  
   "devDependencies": {
     "vite": "^4.4.5"
   }
